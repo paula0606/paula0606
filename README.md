@@ -1,16 +1,13 @@
-### Hi there 👋
+### Ola! 👋
+**meu nome é Mayara Milena De Paula**
 
-<!--
-**paula0606/paula0606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+tenho 15 anos,e sou estudante do ensino médio.
 
-Here are some ideas to get you started:
+Sou programadora de jogos no:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![isso é uma imagem](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+*também sou programadora de mods*
+ :smiling_face_with_three_hearts:
+ 
+também estudo [pensamento computacional](https://pt.wikipedia.org/wiki/Pensamento_computacional)
